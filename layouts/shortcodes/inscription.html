@@ -1,0 +1,34 @@
+{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
+{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
+
+<form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">{{ i18n "yourName" }}</label>
+    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+        {{ i18n "nameRequiredNote" }}
+    </div>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">{{ i18n "emailAddress" }}</label>
+    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      {{ i18n "emailRequiredNote" }}
+    </div>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="company">{{ i18n "yourCompany" }}</label>
+    <input type="text" id="company" name="company" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="company"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+        {{ i18n "companyRequiredNote" }}
+    </div>
+
+    <input type="radio" id="atelier-janvier" name="fav_language" value="25-01-2024">
+    <label for="atelier-janvier">25 janvier 2024, 8h45 à 12h30. Atelier tous secteurs pro confondus</label><br>
+    <input type="radio" id="atelier-fevrier" name="fav_language" value="15-02-2024">
+    <label for="atelier-fevrier">15 février 2024, 8h45 à 12h30. Atelier pour le secteur du transport</label><br>
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "message" }}</label>
+    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+
+    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="{{ i18n "send" }}" />
+
+</form>

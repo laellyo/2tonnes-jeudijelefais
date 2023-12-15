@@ -1,0 +1,9 @@
+
+[companyRequiredNote]
+other = "Merci de renseigner le nom de votre entreprise."
+
+[nameRequiredNote]
+other = "Merci de renseigner votre prénom et nom."
+
+[yourCompany]
+other = "Nom de votre entreprise"
