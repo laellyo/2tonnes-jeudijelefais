@@ -1,0 +1,1 @@
+Votre pré-inscription a bien été prise en compte ! 

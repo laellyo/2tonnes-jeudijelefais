@@ -2,3 +2,4 @@ baseURL = 'https://ashy-coast-012171203.4.azurestaticapps.net/'
 languageCode = 'fr-FR'
 title = 'Jeudi Je le fais'
 theme = 'ananke'
+defaultContentLanguage = "fr"
