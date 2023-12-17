@@ -3,3 +3,7 @@ languageCode = 'fr-FR'
 title = 'Jeudi je le fais'
 theme = 'ananke'
 defaultContentLanguage = "fr"
+sectionPagesMenu = 'main'
+
+[params]
+    custom_css = ["css/main.css"]
