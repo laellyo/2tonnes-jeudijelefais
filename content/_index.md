@@ -8,7 +8,7 @@ cascade:
   featured_image: '/images/banner.png'
 ---
 
-Que nous soyons {{< highlight text="dirigeant ou salarié">}}, nous pouvons tous être {{< highlight text="acteur">}} du changement au sein de notre entreprise.
+Que nous soyons {{< highlight text="dirigeant ou salarié">}}, nous pouvons tous être acteur du changement au sein de notre entreprise.
 En créant cet évènement, nous voulons offrir un espace adapté au milieu professionnel pour pouvoir aborder ensemble les enjeux environnementaux et faciliter l'échange d'idées et de solutions.
 
 {{< button action="pre-inscription">}}
@@ -23,6 +23,6 @@ Un jeudi par mois, nous organisons des {{< highlight text="ateliers dédiés aux
 
 Nous nous appuyons sur l'atelier [2tonnes](https://www.2tonnes.org/) pour vous faire vivre en accélérer les prochaines années jusqu'en 2050, et ainsi vous donner l'opportunité de voir les choix les plus pertinents, à titre individuel et collectif, pour respecter les Accords de Paris et ainsi limiter le réchauffement climatique à 1,5°C d'ici 2100.
 
-L'atelier est ouvert à tous, aucun pré requis en terme de connaissance n'est en effet nécessaire pour participer.
+L'atelier est ouvert à tous, {{< highlight text="aucun pré requis en terme de connaissance">}} n'est en effet nécessaire pour participer.
 
 {{< button action="pre-inscription">}}
