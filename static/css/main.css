@@ -1,3 +1,29 @@
+@font-face {
+  font-family: Bullpen3D;
+  src: local("Bullpen3D"),
+    url("../fonts/Bullpen3D.ttf") format("truetype"),
+}
+@font-face {
+  font-family: GistLight;
+  src: local("GistLight"),
+    url("../fonts/GistLight.otf") format("opentype"),
+}
+
+.lh-title {
+  font-family: "Bullpen3D";
+}
+
+.f3 {
+  font-family: "Bullpen3D";
+}
+.f1-l {
+  font-size: 4rem;
+}
+
+.f3-l {
+  font-family: "GistLight";
+}
+
 .button-parent {
   text-align: center;
   width: 100%;

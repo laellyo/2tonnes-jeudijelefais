@@ -8,7 +8,7 @@ cascade:
   featured_image: '/images/banner.png'
 ---
 
-Que nous soyez dirigeant ou salarié, nous pouvons tous être acteur du changement au sein de notre entreprise.
+Que nous soyons dirigeant ou salarié, nous pouvons tous être acteur du changement au sein de notre entreprise.
 En créant **Jeudi je le fais**, nous voulons offrir un espace adapté au milieu professionnel pour pouvoir aborder ensemble les enjeux environnementaux et faciliter l'échange d'idées et de solutions.
 
 {{< button action="pre-inscription">}}
