@@ -8,14 +8,14 @@ cascade:
   featured_image: '/images/banner.png'
 ---
 
-Que nous soyons dirigeant ou salarié, nous pouvons tous être acteur du changement au sein de notre entreprise.
-En créant **Jeudi je le fais**, nous voulons offrir un espace adapté au milieu professionnel pour pouvoir aborder ensemble les enjeux environnementaux et faciliter l'échange d'idées et de solutions.
+Que nous soyons {{< highlight text="dirigeant ou salarié">}}, nous pouvons tous être {{< highlight text="acteur">}} du changement au sein de notre entreprise.
+En créant cet évènement, nous voulons offrir un espace adapté au milieu professionnel pour pouvoir aborder ensemble les enjeux environnementaux et faciliter l'échange d'idées et de solutions.
 
 {{< button action="pre-inscription">}}
 
 ## En quoi consiste le concept Jeudi je le fais?
 
-Un jeudi par mois, nous organisons des ateliers dédiés aux entreprises afin de répondre à plusieurs enjeux propres au monde professionnel:
+Un jeudi par mois, nous organisons des {{< highlight text="ateliers dédiés aux entreprises">}} afin de répondre à plusieurs enjeux propres au monde professionnel:
 
 - Quels leviers sont possibles au niveau de mon entreprise afin de répondre aux enjeux environnementaux? 
 - Comment convaincre mes salariés ou ma direction de l'importance de la transformation de mon entreprise?

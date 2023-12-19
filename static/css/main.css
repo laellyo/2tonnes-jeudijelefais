@@ -9,6 +9,24 @@
     url("../fonts/GistLight.otf") format("opentype"),
 }
 
+.highlight {
+  position: relative;
+}
+
+.highlight::before {
+  /* Highlight color */
+  background-color: #46b96c;
+
+  content: "";
+  position: absolute;
+  width: calc(100% + 4px);
+  height: 60%;
+  left: -2px;
+  bottom: 0;
+  z-index: -1;
+  transform: rotate(-2deg);
+}
+
 .lh-title {
   font-family: "Bullpen3D";
 }
