@@ -1,11 +1,11 @@
 ---
-title: "Jeudi je le fais"
+
 layout: standard
 type: page
 
 description: "Le rendez-vous du jeudi pour les entreprises sarthoises qui souhaitent se former aux enjeux environnementaux"
 cascade:
-  featured_image: '/images/banner.png'
+  featured_image: '/images/banner_jeudijelefais.jpg'
 ---
 
 Que nous soyons {{< highlight text="dirigeant ou salarié">}}, nous pouvons tous être acteur du changement au sein de notre entreprise.
