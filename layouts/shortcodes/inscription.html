@@ -8,21 +8,21 @@
     method="POST" role="form">
 
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">{{ i18n "yourName" }}</label>
-    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>
+    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder="{{ i18n "nameRequiredNote" }} "  aria-labelledby="name"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
-        {{ i18n "nameRequiredNote" }}
+       
     </div>
 
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">{{ i18n "emailAddress" }}</label>
-    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
+    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" {{ i18n "emailRequiredNote" }} "  aria-labelledby="email"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
-      {{ i18n "emailRequiredNote" }}
+     
     </div>
 
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="company">{{ i18n "yourCompany" }}</label>
-    <input type="text" id="company" name="company" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="company"/>
+    <input type="text" id="company" name="company" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder="{{ i18n "companyRequiredNote" }} "  aria-labelledby="company"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
-        {{ i18n "companyRequiredNote" }}
+       
     </div>
 
     <br />    
