@@ -8,7 +8,6 @@ cascade:
   featured_image: '/images/banner_jeudijelefais.jpg'
 ---
 
-Coucou!
 Que nous soyons {{< highlight text="dirigeant ou salarié">}}, nous pouvons tous être acteur du changement au sein de notre entreprise.
 En créant cet évènement, nous voulons offrir un espace adapté au milieu professionnel pour pouvoir aborder ensemble les enjeux environnementaux et faciliter l'échange d'idées et de solutions.
 
