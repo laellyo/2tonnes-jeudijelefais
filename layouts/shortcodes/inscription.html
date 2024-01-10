@@ -24,6 +24,17 @@
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
        
     </div>
+    
+    <br />
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "animator" }}</label>
+    <input type="radio" id="anim-giulia" name="animator" value="giulia" required>
+    <label for="anim-david">Giulia Desrues</label><br>
+    <input type="radio" id="anim-olivia" name="animator" value="olivia" required>
+    <label for="anim-david">Olivia Guilbaud</label><br>
+    <input type="radio" id="anim-benoit" name="animator" value="benoit" required>
+    <label for="anim-david">Benoit Planchenault</label><br>
+    <input type="radio" id="anim-david" name="animator" value="david" required>
+    <label for="anim-david">David Heinzer</label><br>
 
     <br />    
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="selected_workshop">Veuillez sélectionner l'atelier auquel vous souhaitez participer :</label>
@@ -50,11 +61,6 @@
     </select>
 
     <br />
-    <br />
-    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "animator" }}</label>
-    <input type="text" id="animator" name="animator" class="{{ $.Scratch.Get "inputClasses" }}"  placeholder=" "  aria-labelledby="animator"/>
-    
-    
     <br />    
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "customMessage" }}</label>
     <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>

@@ -3,12 +3,13 @@
 layout: standard
 type: page
 
-description: "Le rendez-vous du jeudi pour les entreprises sarthoises qui souhaitent se former aux enjeux environnementaux"
+description: "Le rendez-vous du jeudi pour les organisations sarthoises qui souhaitent se former aux enjeux environnementaux avec l'atelier 2tonnes"
 cascade:
   featured_image: '/images/banner_jeudijelefais.jpg'
 ---
 
-Que nous soyons {{< highlight text="dirigeant ou salarié">}}, nous pouvons tous être acteur du changement au sein de notre entreprise.
+Que nous soyons {{< highlight text="dirigeant.e ou salarié.e">}}, nous pouvons tous être acteur.ice du changement au sein de notre entreprise. 
+
 En créant cet évènement, nous voulons offrir un espace adapté au milieu professionnel pour pouvoir aborder ensemble les enjeux environnementaux et faciliter l'échange d'idées et de solutions.
 
 {{< button action="pre-inscription">}}
@@ -18,11 +19,15 @@ En créant cet évènement, nous voulons offrir un espace adapté au milieu prof
 Un jeudi par mois, nous organisons des {{< highlight text="ateliers dédiés aux entreprises">}} afin de répondre à plusieurs enjeux propres au monde professionnel:
 
 - Quels leviers sont possibles au niveau de mon entreprise afin de répondre aux enjeux environnementaux? 
-- Comment convaincre mes salariés ou ma direction de l'importance de la transformation de mon entreprise?
-- Que font les autres acteurs du marché ? Ont-ils lancé des initiatives que je pourrais reproduire ?
+- Comment convaincre mes salarié.e.s ou ma direction de l'importance de la transformation de mon entreprise?
+- Vous pensez être seul.e à vous poser des questions ? C'est aussi l'occasion de rencontrer d'autres acteurs et d'avancer ensemble.
 
-Nous nous appuyons sur l'atelier [2tonnes](https://www.2tonnes.org/) pour vous faire vivre en accélérer les prochaines années jusqu'en 2050, et ainsi vous donner l'opportunité de voir les choix les plus pertinents, à titre individuel et collectif, pour respecter les Accords de Paris et ainsi limiter le réchauffement climatique à 1,5°C d'ici 2100.
+Nous nous appuyons sur l'atelier [2tonnes](https://www.2tonnes.org/) pour vous faire vivre en accéléré les prochaines années jusqu'en 2050, et ainsi vous donner l'opportunité de voir les choix les plus pertinents, à titre individuel et collectif, pour respecter les Accords de Paris et ainsi limiter le réchauffement climatique à 1,5°C d'ici 2100.
 
-L'atelier est ouvert à tous, {{< highlight text="aucun pré requis en terme de connaissance">}} n'est en effet nécessaire pour participer.
+## A qui ça s'adresse?
+
+Vous voulez tester l'atelier avant de le déployer dans votre organisation? N'hésitez pas à venir, seul ou avec d'autres personnes de votre équipe pour découvrir l'atelier 2tonnes ! 
+
+L'atelier est ouvert à tous, {{< highlight text="aucun pré requis en terme de connaissances">}} n'est en effet nécessaire pour participer.
 
 {{< button action="pre-inscription">}}

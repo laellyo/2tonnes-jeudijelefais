@@ -7,9 +7,9 @@ cascade:
   featured_image: '/images/banner_jeudijelefais.jpg'
 ---
 
-Des ateliers seront organisés un jeudi matin par mois, de 8h45 à 12h30, suivis d'un moment de partage autour d'un déjeuner compris dans le tarif. Les dates disponibles sont indiquées dans le formulaire ci-dessous.
+Des ateliers seront organisés un jeudi matin par mois, de 8h45 à 13h45, comprenant un moment de partage autour d'un déjeuner offert. Les dates disponibles sont indiquées dans le formulaire ci-dessous.
 
-Tarif: 180€ TTC via facture
+Tarif: 180€ TTC via facture (un devis vous sera envoyé avant l'atelier pour confirmer votre participation)
 
 Lieu: Le Mans centre, l'adresse exacte vous sera communiquée après la pré-inscription.
 

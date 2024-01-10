@@ -1,12 +1,12 @@
 
 [animator]
-other = "Vous participez sur les conseils d'un animateur? Indiquez son nom pour que nous le remercions!"
+other = "Vous participez sur les conseils d'un animateur? Dites-nous qui pour nous le remercions!"
 
 [companyRequiredNote]
 other = "Merci de renseigner le nom de votre entreprise."
 
 [nameRequiredNote]
-other = "Merci de renseigner votre prénom et nom."
+other = "Merci de renseigner votre prénom et nom." 
 
 [yourCompany]
 other = "Nom de votre entreprise"
@@ -15,4 +15,4 @@ other = "Nom de votre entreprise"
 other = "Vous pouvez compléter votre pré-inscription d'un message aux animateurs"
 
 [lunch]
-other = "Souhaitez-vous prolonger les échanges autour d'un déjeuner de 12h30 à 14h?"
+other = "Confirmez-vous votre présence lors d'un déjeuner de 12h30 à 13h45?"
