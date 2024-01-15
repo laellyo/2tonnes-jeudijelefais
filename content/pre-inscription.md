@@ -9,7 +9,9 @@ cascade:
 
 Des ateliers seront organisés un jeudi matin par mois, de 8h45 à 13h45, comprenant un moment de partage autour d'un déjeuner offert. Les dates disponibles sont indiquées dans le formulaire ci-dessous.
 
-Tarif: 180€ TTC via facture (un devis vous sera envoyé avant l'atelier pour confirmer votre participation)
+**Tarif:**
+- 180€ TTC par participant via facture
+- La pré inscription n'est pas engageante financièrement, mais permet de réserver votre place le temps de confirmer votre participation et éditer le devis.
 
 Lieu: A la Fabrique, 5 boulevard Anatole France, 72000 Le Mans
 
