@@ -7,3 +7,4 @@ sectionPagesMenu = 'main'
 
 [params]
     custom_css = ["css/main.css"]
+    azureAppInsightsKey = "0e4b7750-fc3a-4d6e-bb49-c832358ea13d"
