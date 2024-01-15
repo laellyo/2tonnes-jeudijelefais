@@ -1,8 +1,8 @@
 {{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
 {{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
 
-<form class="black-80 sans-serif" 
-    accept-charset="UTF-8" 
+<form class="black-80 sans-serif"
+    accept-charset="UTF-8"
     action="{{ .Get "action" }}"
     data-botpoison-public-key="pk_a2ae1e18-27b7-4b8f-b202-5dae8f66536b"
     method="POST" role="form">
@@ -10,33 +10,35 @@
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">{{ i18n "yourName" }}</label>
     <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder="{{ i18n "nameRequiredNote" }} "  aria-labelledby="name"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
-       
+
     </div>
 
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">{{ i18n "emailAddress" }}</label>
     <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" {{ i18n "emailRequiredNote" }} "  aria-labelledby="email"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
-     
+
     </div>
 
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="company">{{ i18n "yourCompany" }}</label>
     <input type="text" id="company" name="company" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder="{{ i18n "companyRequiredNote" }} "  aria-labelledby="company"/>
     <div class="requirements f6 gray glow i ph3 overflow-hidden">
-       
+
     </div>
-    
+
     <br />
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "animator" }}</label>
-    <input type="radio" id="anim-giulia" name="animator" value="giulia" required>
+    <input type="radio" id="anim-aucun" name="animator" value="aucun" checked="true">
+    <label for="anim-david">Aucun</label><br>
+    <input type="radio" id="anim-giulia" name="animator" value="giulia">
     <label for="anim-david">Giulia Desrues</label><br>
-    <input type="radio" id="anim-olivia" name="animator" value="olivia" required>
+    <input type="radio" id="anim-olivia" name="animator" value="olivia">
     <label for="anim-david">Olivia Guilbaud</label><br>
-    <input type="radio" id="anim-benoit" name="animator" value="benoit" required>
+    <input type="radio" id="anim-benoit" name="animator" value="benoit">
     <label for="anim-david">Benoit Planchenault</label><br>
-    <input type="radio" id="anim-david" name="animator" value="david" required>
+    <input type="radio" id="anim-david" name="animator" value="david">
     <label for="anim-david">David Heinzer</label><br>
 
-    <br />    
+    <br />
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="selected_workshop">Veuillez sélectionner l'atelier auquel vous souhaitez participer :</label>
     <input type="radio" id="atelier-janvier" name="selected_workshop" value="25-01-2024" required>
     <label for="atelier-janvier">25 janvier 2024, 8h45 à 12h30. Ouvert à tous secteurs</label><br>
@@ -61,12 +63,12 @@
     </select>
 
     <br />
-    <br />    
+    <br />
     <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">{{ i18n "customMessage" }}</label>
     <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
 
     <input type="checkbox" name="coucou-les-bots" style="display:none" tabindex="-1" autocomplete="off"  />
-    
+
     <input type="hidden" name="_redirect" value="{{ absURL "/merci" }}" />
     <input type="hidden" name="_append" value="false" />
 
