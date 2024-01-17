@@ -24,6 +24,8 @@ Un jeudi par mois, nous organisons des {{< highlight text="ateliers dédiés aux
 
 Nous nous appuyons sur l'atelier [2tonnes](https://www.2tonnes.org/) pour vous faire vivre en accéléré les prochaines années jusqu'en 2050, et ainsi vous donner l'opportunité de voir les choix les plus pertinents, à titre individuel et collectif, pour respecter les Accords de Paris et ainsi limiter le réchauffement climatique à 1,5°C d'ici 2100.
 
+C'est un outil pédagogique et ludique qui a déjà été déployé avec succès dans de nombreuses entreprises (Vinci, l'Oréal, Axa, Décathlon, Air Liquide, etc.) et collectivités (Ministère de la transition écologique, Direction Générale de l'aviation civile, Toulouse Métropole, etc.).
+
 ## A qui ça s'adresse ?
 
 Vous voulez tester l'atelier avant de le déployer dans votre organisation? N'hésitez pas à venir, seul ou avec d'autres personnes de votre équipe pour découvrir l'atelier 2tonnes.
